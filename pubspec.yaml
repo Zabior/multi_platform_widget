@@ -1,6 +1,6 @@
 name: multi_platform_widget
 description: A package which allows creating different widgets for each platform supported by Flutter.
-version: 1.0.0
+version: 1.0.1
 homepage: "https://github.com/Zabior/multi_platform_widget"
 
 environment:
